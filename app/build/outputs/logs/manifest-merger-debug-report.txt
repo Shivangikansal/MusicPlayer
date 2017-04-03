@@ -1,0 +1,101 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Shivangi Kansal\AndroidStudioProjects\MusicPlayer\app\src\main\AndroidManifest.xml:2:1-35:12
+	package
+		ADDED from C:\Users\Shivangi Kansal\AndroidStudioProjects\MusicPlayer\app\src\main\AndroidManifest.xml:3:5-45
+		INJECTED from C:\Users\Shivangi Kansal\AndroidStudioProjects\MusicPlayer\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Shivangi Kansal\AndroidStudioProjects\MusicPlayer\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Shivangi Kansal\AndroidStudioProjects\MusicPlayer\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Shivangi Kansal\AndroidStudioProjects\MusicPlayer\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Shivangi Kansal\AndroidStudioProjects\MusicPlayer\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\Users\Shivangi Kansal\AndroidStudioProjects\MusicPlayer\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Shivangi Kansal\AndroidStudioProjects\MusicPlayer\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.WAKE_LOCK
+ADDED from C:\Users\Shivangi Kansal\AndroidStudioProjects\MusicPlayer\app\src\main\AndroidManifest.xml:5:5-68
+	android:name
+		ADDED from C:\Users\Shivangi Kansal\AndroidStudioProjects\MusicPlayer\app\src\main\AndroidManifest.xml:5:22-65
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\Shivangi Kansal\AndroidStudioProjects\MusicPlayer\app\src\main\AndroidManifest.xml:6:5-81
+	android:name
+		ADDED from C:\Users\Shivangi Kansal\AndroidStudioProjects\MusicPlayer\app\src\main\AndroidManifest.xml:6:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\Shivangi Kansal\AndroidStudioProjects\MusicPlayer\app\src\main\AndroidManifest.xml:7:5-80
+	android:name
+		ADDED from C:\Users\Shivangi Kansal\AndroidStudioProjects\MusicPlayer\app\src\main\AndroidManifest.xml:7:22-77
+application
+ADDED from C:\Users\Shivangi Kansal\AndroidStudioProjects\MusicPlayer\app\src\main\AndroidManifest.xml:9:5-33:19
+MERGED from [com.android.support:appcompat-v7:25.2.0] C:\Users\Shivangi Kansal\.android\build-cache\f79f781bdc026ee96a380d52043f03432e2b0939\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\Shivangi Kansal\.android\build-cache\70115b91aa49f05de29b6ebada122e98a98ca49a\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.2.0] C:\Users\Shivangi Kansal\.android\build-cache\9cdd741c411aa2d7d3b216606ecbafaae5f4328c\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\Shivangi Kansal\.android\build-cache\3862288f788d5ccf7e772ff63706edd52221804d\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\Shivangi Kansal\.android\build-cache\4197143a8d13caef95d08515e4644bee27b2ad99\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\Shivangi Kansal\.android\build-cache\fa2fb395d6ddc34641c90659fc8c84eff4736ad3\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] C:\Users\Shivangi Kansal\.android\build-cache\9c94b22a3808666dab04cd38ac156c509ea3d5bf\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.2.0] C:\Users\Shivangi Kansal\.android\build-cache\9fdc6663ae0dfde62c2543b8e064aa1978f1e955\output\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Shivangi Kansal\.android\build-cache\80438dab654b84ad6615214c11d0e650a0a52a1b\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.0-alpha7] C:\Users\Shivangi Kansal\.android\build-cache\af0698da063688c8a0144437c177c3099ff16995\output\AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from C:\Users\Shivangi Kansal\AndroidStudioProjects\MusicPlayer\app\src\main\AndroidManifest.xml:12:9-41
+	android:supportsRtl
+		ADDED from C:\Users\Shivangi Kansal\AndroidStudioProjects\MusicPlayer\app\src\main\AndroidManifest.xml:13:9-35
+	android:allowBackup
+		ADDED from C:\Users\Shivangi Kansal\AndroidStudioProjects\MusicPlayer\app\src\main\AndroidManifest.xml:10:9-35
+	android:icon
+		ADDED from C:\Users\Shivangi Kansal\AndroidStudioProjects\MusicPlayer\app\src\main\AndroidManifest.xml:11:9-36
+	android:theme
+		ADDED from C:\Users\Shivangi Kansal\AndroidStudioProjects\MusicPlayer\app\src\main\AndroidManifest.xml:14:9-40
+activity#com.first.shivangi.musicplayer.MainActivity
+ADDED from C:\Users\Shivangi Kansal\AndroidStudioProjects\MusicPlayer\app\src\main\AndroidManifest.xml:16:9-24:24
+	android:launchMode
+		ADDED from C:\Users\Shivangi Kansal\AndroidStudioProjects\MusicPlayer\app\src\main\AndroidManifest.xml:17:13-43
+	android:name
+		ADDED from C:\Users\Shivangi Kansal\AndroidStudioProjects\MusicPlayer\app\src\main\AndroidManifest.xml:16:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\Shivangi Kansal\AndroidStudioProjects\MusicPlayer\app\src\main\AndroidManifest.xml:18:13-22:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Shivangi Kansal\AndroidStudioProjects\MusicPlayer\app\src\main\AndroidManifest.xml:19:17-69
+	android:name
+		ADDED from C:\Users\Shivangi Kansal\AndroidStudioProjects\MusicPlayer\app\src\main\AndroidManifest.xml:19:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Shivangi Kansal\AndroidStudioProjects\MusicPlayer\app\src\main\AndroidManifest.xml:21:17-77
+	android:name
+		ADDED from C:\Users\Shivangi Kansal\AndroidStudioProjects\MusicPlayer\app\src\main\AndroidManifest.xml:21:27-74
+activity#com.first.shivangi.musicplayer.Playlist
+ADDED from C:\Users\Shivangi Kansal\AndroidStudioProjects\MusicPlayer\app\src\main\AndroidManifest.xml:25:9-31:20
+	android:label
+		ADDED from C:\Users\Shivangi Kansal\AndroidStudioProjects\MusicPlayer\app\src\main\AndroidManifest.xml:26:13-37
+	android:name
+		ADDED from C:\Users\Shivangi Kansal\AndroidStudioProjects\MusicPlayer\app\src\main\AndroidManifest.xml:25:19-43
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from C:\Users\Shivangi Kansal\AndroidStudioProjects\MusicPlayer\app\src\main\AndroidManifest.xml:28:13-30:48
+	android:value
+		ADDED from C:\Users\Shivangi Kansal\AndroidStudioProjects\MusicPlayer\app\src\main\AndroidManifest.xml:30:17-46
+	android:name
+		ADDED from C:\Users\Shivangi Kansal\AndroidStudioProjects\MusicPlayer\app\src\main\AndroidManifest.xml:29:17-63
+service#com.first.shivangi.musicplayer.MusicService
+ADDED from C:\Users\Shivangi Kansal\AndroidStudioProjects\MusicPlayer\app\src\main\AndroidManifest.xml:32:9-78
+	android:name
+		ADDED from C:\Users\Shivangi Kansal\AndroidStudioProjects\MusicPlayer\app\src\main\AndroidManifest.xml:32:18-76
+uses-sdk
+INJECTED from C:\Users\Shivangi Kansal\AndroidStudioProjects\MusicPlayer\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:25.2.0] C:\Users\Shivangi Kansal\.android\build-cache\f79f781bdc026ee96a380d52043f03432e2b0939\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\Shivangi Kansal\.android\build-cache\70115b91aa49f05de29b6ebada122e98a98ca49a\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.2.0] C:\Users\Shivangi Kansal\.android\build-cache\9cdd741c411aa2d7d3b216606ecbafaae5f4328c\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\Shivangi Kansal\.android\build-cache\3862288f788d5ccf7e772ff63706edd52221804d\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\Shivangi Kansal\.android\build-cache\4197143a8d13caef95d08515e4644bee27b2ad99\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\Shivangi Kansal\.android\build-cache\fa2fb395d6ddc34641c90659fc8c84eff4736ad3\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] C:\Users\Shivangi Kansal\.android\build-cache\9c94b22a3808666dab04cd38ac156c509ea3d5bf\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.2.0] C:\Users\Shivangi Kansal\.android\build-cache\9fdc6663ae0dfde62c2543b8e064aa1978f1e955\output\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Shivangi Kansal\.android\build-cache\80438dab654b84ad6615214c11d0e650a0a52a1b\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support.constraint:constraint-layout:1.0.0-alpha7] C:\Users\Shivangi Kansal\.android\build-cache\af0698da063688c8a0144437c177c3099ff16995\output\AndroidManifest.xml:5:5-7:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.2.0] C:\Users\Shivangi Kansal\.android\build-cache\f79f781bdc026ee96a380d52043f03432e2b0939\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from C:\Users\Shivangi Kansal\AndroidStudioProjects\MusicPlayer\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Shivangi Kansal\AndroidStudioProjects\MusicPlayer\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Shivangi Kansal\AndroidStudioProjects\MusicPlayer\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Shivangi Kansal\AndroidStudioProjects\MusicPlayer\app\src\main\AndroidManifest.xml
